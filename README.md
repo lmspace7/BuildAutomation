@@ -43,7 +43,7 @@ https://github.com/lmspace7/BuildAutomation.git
 
 ### 3) 실행
 - 심플 모드: `에디터툴 > Build Automation > Run SimpeMode BuildAndRun`
-- 프로필 모드: `에디터툴 > Build Automation > Run ProfileModeBuild`
+- 프로필 모드: `에디터툴 > Build Automation > Run ProfileMode BuildAndRun`
 
 ---
 
@@ -53,7 +53,7 @@ https://github.com/lmspace7/BuildAutomation.git
 | --- | --- |
 | `에디터툴 > Build Automation > Setting` | 설정 에셋 포커스 |
 | `에디터툴 > Build Automation > Run SimpeMode BuildAndRun` | 심플 모드 빌드/실행 |
-| `에디터툴 > Build Automation > Run ProfileModeBuild` | 프로필 모드 빌드/실행 |
+| `에디터툴 > Build Automation > Run ProfileMode BuildAndRun` | 프로필 모드 빌드/실행 |
 
 ---
 
