@@ -26,12 +26,6 @@ https://github.com/lmspace7/BuildAutomation.git
 
 ---
 
-## Prerequisites
-
-- Windows 환경 (창 배치/프로세스 제어는 Windows 전용)
-
----
-
 ## Requirements
 
 - Unity 2021+ 권장
