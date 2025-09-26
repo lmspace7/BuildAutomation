@@ -21,7 +21,7 @@ Unity Package Manager에서 설치:
 - Git URL:
 
 ```text
-https://github.com/lmspace7/BuildAutomation.git?path=Assets/Scripts/Core/BuildAutomation
+https://github.com/lmspace7/BuildAutomation.git
 ```
 
 ---
@@ -91,7 +91,7 @@ https://github.com/lmspace7/BuildAutomation.git?path=Assets/Scripts/Core/BuildAu
 - 빌드 성공 시:
   - 기존 동일 exe 프로세스 정리(중복/충돌 방지)
   - 지정 개수만큼 자동 실행
-  - Windows에서 창 위치 자동 배치(4분할 또는 사용자 좌표)
+  - Windows에서 창 위치 자동 배치
 
 ---
 
