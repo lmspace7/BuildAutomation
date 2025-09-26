@@ -10,7 +10,9 @@ Unity에서 멀티 인스턴스 빌드/실행과 창 배치를 자동화하는 �
 - **창 배치(Windows)**: 4분할 기본
 - **인자 템플릿(CMD Args)**: 포트/닉네임/해상도 전달 (개발 진행 중)
 
-> 소개 영상: [YouTube 데모](https://www.youtube.com/watch?v=c9WRNfEV2D0)
+> 소개 영상: [YouTube 소개](https://www.youtube.com/watch?v=c9WRNfEV2D0)
+> 활용 영상: [YouTube]
+(https://youtu.be/g3lHD18pSY0?si=Bb_Jc-hW8qmxrDsi).
 
 ---
 
